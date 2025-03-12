@@ -1,4 +1,4 @@
-# AgentWithTavily
+# Chatbot Project in Graph Structure
 
 Bu çalışmada Google AI tarafından geliştirilen yapay zekâ Gemini API'ı kullanılarak RAG ile bir chatbot projesi geliştirilmiştir. 
 
